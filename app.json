@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TCC-mobile",
-    "slug": "TCC-mobile",
+    "name": "jobhub",
+    "slug": "jobhub",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
